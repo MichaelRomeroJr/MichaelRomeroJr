@@ -1,4 +1,3 @@
-[Michael Romero.pdf](https://github.com/MichaelRomeroJr/MichaelRomeroJr/files/6489966/Michael.Romero.pdf)
 ### Hi there 👋
 
 <!--
