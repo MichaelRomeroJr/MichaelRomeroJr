@@ -1,3 +1,4 @@
+[Michael Romero.pdf](https://github.com/MichaelRomeroJr/MichaelRomeroJr/files/6489966/Michael.Romero.pdf)
 ### Hi there 👋
 
 <!--
@@ -27,7 +28,8 @@ Hi there, I'm **Michael Romero**, a  👨‍💻 **Software Engineer** & **Data 
 - 🤔 My interests are with Computer vision,  Natural Language Processing/Understanding, Reinforcement Learning, etc..
 - 💼 Freelance Python Developer expeienced with Data Science and Automation.
 - 💬 Ask me about ... my work, I'm always happy to help.
-- 📝 See my [Résumé](https://github.com/MichaelRomeroJr/MichaelRomeroJr/files/6480596/Michael.Romero.pdf) to get more info.
+- 📝 See my [Résumé](https://github.com/MichaelRomeroJr/MichaelRomeroJr/files/6489968/Michael.Romero.pdf) to get more info.
+
 
 <br>
 <br>
