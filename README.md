@@ -27,7 +27,7 @@ Hi there, I'm **Michael Romero**, a  👨‍💻 **Software Engineer** & **Data 
 - 🤔 My interests are with Computer vision,  Natural Language Processing/Understanding, Reinforcement Learning, etc..
 - 💼 Freelance Python Developer expeienced with Data Science and Automation.
 - 💬 Ask me about ... my work, I'm always happy to help.
-- 📝 See my [Résumé](https://github.com/MichaelRomeroJr/MichaelRomeroJr/files/6489968/Michael.Romero.pdf) to get more info.
+- 📝 See my [Résumé](https://github.com/MichaelRomeroJr/MichaelRomeroJr/blob/abd6c2da330e555340ebcc56a24f58237562d0d4/resume.pdf) to get more info.
 
 
 <br>
